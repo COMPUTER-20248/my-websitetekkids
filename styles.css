@@ -1,0 +1,11 @@
+body {
+	background-color: pink;
+}
+
+h1	{
+	color: blue;
+	margin-left: 20px;
+}
+table {
+	border:2px solid red;
+	border-spacing: 10px;
